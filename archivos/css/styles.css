@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+
+.logo-empresa{
+    width: 32px;
+    height: 32px;
+    margin: 0 10px 0 20px;
+}
+.container-block{
+    margin: 50px 90px 0px 90px;
+}
+
